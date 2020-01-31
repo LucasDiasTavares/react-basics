@@ -7,10 +7,10 @@ packages:
 
 Relembrando os básicos do ReactJS, como: hooks, components, props e localStorageData.
 
-- [Veja_online](https://www.lucasdiastavares.com.br/Tarefas)
+- [Veja_online](lucastavares-react-basics.netlify.com)
 
 
-==================================================
+=============================================================================================================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
