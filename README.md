@@ -1,3 +1,17 @@
+# Simples 'Tarefas a fazer'
+
+Pequeno projeto, para eu relembrar de algumas coisas simples do Framework ReactJS.
+
+packages:
+- [Uuid](https://www.npmjs.com/package/react-uuid)
+
+Relembrando os básicos do ReactJS, como: hooks, components, props e localStorageData.
+
+- [Veja_online](https://www.lucasdiastavares.com.br/Tarefas)
+
+
+==================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
