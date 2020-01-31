@@ -7,7 +7,7 @@ packages:
 
 Relembrando os básicos do ReactJS, como: hooks, components, props e localStorageData.
 
-- [Veja_online](lucastavares-react-basics.netlify.com)
+- [Veja_online](https://lucastavares-react-basics.netlify.com/)
 
 
 =============================================================================================================================
